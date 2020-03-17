@@ -82,7 +82,7 @@ Main steps of in data Augmentation:
 
 Visualization of Feature Map/Activation Map of images using VGG16 convolutional neural network
 
-     Further from input the
+     Further from input the less details we can see.
 
 * [Feature Map](https://nbviewer.jupyter.org/github/jvhuang1786/mhxxCapStone/blob/master/feature_map.ipynb)
 
