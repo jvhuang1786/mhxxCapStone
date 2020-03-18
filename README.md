@@ -136,8 +136,6 @@ To generate images and put them into an mp4 file.
 
 * [Image Generation](https://nbviewer.jupyter.org/github/jvhuang1786/mhxxCapStone/blob/master/img_generate.ipynb)
 
-* [Movie Clip](https://nbviewer.jupyter.org/github/jvhuang1786/mhxxCapStone/blob/master/mp4_converter.ipynb)
-
 <img src="https://github.com/jvhuang1786/mhxxCapStone/blob/master/images/vidstitch_image_071215_20200315.jpg" width="480"></img>
 
 
