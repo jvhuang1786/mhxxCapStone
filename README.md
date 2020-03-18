@@ -133,6 +133,9 @@ All adjustments were made inside the training/training_loop.py file.  You need t
 ## Image Generation and Movie Clip
 
 To generate images and put them into an mp4 file.  
+    
+    Generates 1000 random images from pickled file
+    Can stitch together images and put them into an mp4 to see. 
 
 * [Image Generation](https://nbviewer.jupyter.org/github/jvhuang1786/mhxxCapStone/blob/master/img_generate.ipynb)
 
